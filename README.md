@@ -32,7 +32,7 @@ Example:
  Port 8000 for Country API
  Port 8080 for Movies API
 
-3. Understanding GET Request
+3. Understanding GET Request:
 A GET request is used when we want to retrieve data from the server.
 
 Example:
